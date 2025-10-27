@@ -1,0 +1,1 @@
+AA,KK,QQ,JJ:0.5,AK,AQ:0.25,AJs:0.5,A5s:0.75,KQs:0.75
